@@ -1,0 +1,20 @@
+ALAKNANDA THAKUR PORTFOLIO - EXECUTION STEPS
+
+Option 1 - easiest:
+1. Extract the ZIP file.
+2. Open the extracted folder.
+3. Double-click index.html.
+4. If the page opens without Bootstrap styling, connect to the internet and refresh.
+
+Option 2 - run a local server:
+1. Install Python 3.
+2. Open Command Prompt in this folder.
+3. Run: python -m http.server 8000
+4. Open: http://localhost:8000
+5. Press Ctrl+C in Command Prompt to stop the server.
+
+Test these features:
+- Use the Theme button for dark/light mode.
+- Use All, Web and JavaScript to filter projects.
+- Submit the empty contact form to see validation.
+- Submit valid name, email and message to see the success message.
